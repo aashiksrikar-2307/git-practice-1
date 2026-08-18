@@ -11,3 +11,4 @@ def subtraction(a,b):
 
 print(addition(2,3))
 print(subtraction(3,2))
+print(multiplication(3,5))
